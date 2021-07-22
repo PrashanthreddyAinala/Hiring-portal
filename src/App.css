@@ -32,3 +32,8 @@ button:hover {
 li:hover {
   cursor: pointer;
 }
+
+.link {
+  text-decoration: none;
+  color: var(--secondry);
+}

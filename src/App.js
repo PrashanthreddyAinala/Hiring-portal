@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 import Aside from "./components/aside/aside";
 import Navbar  from "./components/navbar/navbar";
 import Applicants from "./components/candidates/candidates"
@@ -13,7 +13,7 @@ function App() {
       </div>
       <div className="app-right">
       <Navbar />
-      <Router>
+      {/* <Router> */}
         <Switch>
           <Route path="/" exact>
             <Applicants />
@@ -22,7 +22,7 @@ function App() {
             <Profile />
           </Route>  
         </Switch>  
-      </Router>
+      {/* </Router> */}
       </div>  
     </div>
   );

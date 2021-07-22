@@ -1,11 +1,12 @@
 import React from "react";
+import {Link} from "react-router-dom";
 import "./style.css";
 
 export default function Navbar() {
     return (
         <div className="navbar">
             <div className="nav-item1">
-                <h1>Employees</h1>
+                <h1><Link to="/" className="link">Employees</Link></h1>
             </div>
             <div className="nav-item2">
                 <li><input type="text" placeholder="search"/></li>
