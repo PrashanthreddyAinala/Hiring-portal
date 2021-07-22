@@ -1,0 +1,60 @@
+.candidate-header {
+  display: flex;
+  height: 60px;
+  background: rgba(234, 201, 81, 0.2);
+  border-radius: 8px;
+  width: 98%;
+  margin: 25px 15px 10px 15px;
+}
+
+.candidate-header p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  color: var(--gray);
+  padding: 20px 110px;
+  margin: 0px;
+  text-align: center;
+}
+
+.active1 {
+  background: #eac951;
+  border-radius: 8px;
+}
+
+.candidate-subheader {
+  margin: 15px 30px;
+  display: flex;
+}
+
+.img-flex {
+  display: flex;
+  margin: 0px;
+  background: rgba(255, 219, 88, 0.2);
+  border: 0.5px solid rgba(42, 37, 21, 0.2);
+  border-radius: 5px;
+  width: 110px;
+  height: 50px;
+  position: absolute;
+  right: 20px;
+}
+
+.img-flex li {
+  margin: 0px;
+}
+.img-flex img {
+  width: 30px;
+  height: 30px;
+}
+
+.applicant {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  margin-left: 25px;
+}
+
+.candidate-header p:hover {
+  cursor: pointer;
+}

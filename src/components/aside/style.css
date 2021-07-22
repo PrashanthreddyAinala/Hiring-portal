@@ -1,0 +1,49 @@
+.aside h1 {
+  color: var(--primary);
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 30px 30px;
+}
+
+ul {
+  padding-left: 7px;
+  color: var(--white);
+}
+
+li {
+  font-family: Poppins;
+  list-style: none;
+  margin-bottom: 20px;
+  padding: 10px;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.list1 {
+  padding-top: 30px;
+}
+
+.list2 {
+  padding-left: 20px;
+}
+
+.aside img {
+  width: 20px;
+  height: 20px;
+  padding-right: 5px;
+}
+
+.arrow {
+  padding-left: 150px;
+  transform: translateY(6px);
+}
+
+.active {
+  background: #ffdb58e5;
+  margin-right: 10px;
+  border-radius: 5px;
+  color: var(--secondry);
+  font-weight: 600;
+}
