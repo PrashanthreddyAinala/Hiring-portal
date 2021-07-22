@@ -10,7 +10,7 @@
   display: block;
   width: 40rem;
   height: 40rem;
-  margin: 130px auto;
+  margin: 50px auto;
   background: var(--white);
   border-radius: 12px;
 }
@@ -39,7 +39,7 @@
 }
 .policies span {
   position: absolute;
-  right: 700px;
+  right: 500px;
   border: 1px solid black;
   padding: 5px 20px;
   border-radius: 5px;
