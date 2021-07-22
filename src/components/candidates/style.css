@@ -25,7 +25,7 @@
 }
 
 .candidate-subheader {
-  margin: 15px 30px;
+  margin: 10px 30px;
   display: flex;
 }
 
@@ -38,7 +38,7 @@
   width: 1px;
   height: 40px;
   position: absolute;
-  right: 20px;
+  right: 40px;
 }
 
 .img-flex li {
