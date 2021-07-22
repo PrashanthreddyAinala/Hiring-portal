@@ -1,6 +1,6 @@
 .candidate-header {
   display: flex;
-  height: 50px;
+  height: 45px;
   background: rgba(234, 201, 81, 0.2);
   border-radius: 8px;
   width: 98%;
@@ -35,8 +35,8 @@
   background: rgba(255, 219, 88, 0.2);
   border: 0.5px solid rgba(42, 37, 21, 0.2);
   border-radius: 5px;
-  width: 110px;
-  height: 45px;
+  width: 1px;
+  height: 40px;
   position: absolute;
   right: 20px;
 }
