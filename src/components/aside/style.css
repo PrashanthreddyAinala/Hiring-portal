@@ -18,25 +18,26 @@ li {
   margin-bottom: 18px;
   padding: 8px;
   font-style: normal;
-  font-size: 14px;
 }
 
 .list1 {
-  padding-top: 15px;
+  padding-top: 12px;
+  font-size: 13px;
 }
 
 .list2 {
   padding-left: 15px;
+  font-size: 11px;
 }
 
 .aside img {
-  width: 18px;
-  height: 18px;
+  width: 16px;
+  height: 16px;
   padding-right: 4px;
 }
 
 .arrow {
-  padding-left: 140px;
+  padding-left: 100px;
   /* transform: translateY(3px); */
 }
 
