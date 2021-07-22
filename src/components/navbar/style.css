@@ -10,6 +10,8 @@
   );
   border-radius: 10px;
   display: flex;
+  position: sticky;
+  top: 0;
 }
 
 .nav-item1 {
