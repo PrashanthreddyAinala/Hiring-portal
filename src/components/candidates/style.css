@@ -14,7 +14,7 @@
   font-size: 16px;
   text-align: center;
   color: var(--gray);
-  padding: 15px 80px;
+  padding: 11px 80px;
   margin: 0px;
   text-align: center;
 }
@@ -35,7 +35,7 @@
   background: rgba(255, 219, 88, 0.2);
   border: 0.5px solid rgba(42, 37, 21, 0.2);
   border-radius: 5px;
-  width: 1px;
+  width: 20px;
   height: 40px;
   position: absolute;
   right: 40px;
